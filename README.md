@@ -1,2 +1,2 @@
-# propolis-node-system-process
+# propolis-node-library-system-process
 Propolis: Library: System: Process Information
